@@ -1,0 +1,332 @@
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/ALARM11.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM11.mp3')
+else if songNumber == 12:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM12.mp3')
+else if songNumber == 13:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM13.mp3')
+else if songNumber == 14:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM14.mp3')
+else if songNumber == 15:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM15.mp3')
+else if songNumber == 16:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM16.mp3')
+else if songNumber == 17:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM17.mp3')
+else if songNumber == 18:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM18.mp3')
+else if songNumber == 19:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM19.mp3')
+else if songNumber == 20:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM20.mp3')
+else if songNumber == 21:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM21.mp3')
+else if songNumber == 22:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM22.mp3')
+else if songNumber == 23:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM23.mp3')
+else if songNumber == 24:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM24.mp3')
+else if songNumber == 25:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/HUM25.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC11.mp3')
+else if songNumber == 12:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC12.mp3')
+else if songNumber == 13:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC13.mp3')
+else if songNumber == 14:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC14.mp3')
+else if songNumber == 15:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC15.mp3')
+else if songNumber == 16:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC16.mp3')
+else if songNumber == 17:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC17.mp3')
+else if songNumber == 18:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC18.mp3')
+else if songNumber == 19:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC19.mp3')
+else if songNumber == 20:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC20.mp3')
+else if songNumber == 21:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC21.mp3')
+else if songNumber == 22:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC22.mp3')
+else if songNumber == 23:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC23.mp3')
+else if songNumber == 24:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC24.mp3')
+else if songNumber == 25:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC25.mp3')
+else if songNumber == 26:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC26.mp3')
+else if songNumber == 27:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC27.mp3')
+else if songNumber == 28:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC28.mp3')
+else if songNumber == 29:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC29.mp3')
+else if songNumber == 30:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC30.mp3')
+else if songNumber == 31:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC31.mp3')
+else if songNumber == 32:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC32.mp3')
+else if songNumber == 33:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC33.mp3')
+else if songNumber == 34:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC34.mp3')
+else if songNumber == 35:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC35.mp3')
+else if songNumber == 36:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC36.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/OOH7.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC11.mp3')
+else if songNumber == 12:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC12.mp3')
+else if songNumber == 13:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC13.mp3')
+else if songNumber == 14:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC14.mp3')
+else if songNumber == 15:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/PROC15.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ11.mp3')
+else if songNumber == 12:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ12.mp3')
+else if songNumber == 13:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ13.mp3')
+else if songNumber == 14:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ14.mp3')
+else if songNumber == 15:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ15.mp3')
+else if songNumber == 16:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ16.mp3')
+else if songNumber == 17:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ17.mp3')
+else if songNumber == 18:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ18.mp3')
+else if songNumber == 19:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ19.mp3')
+else if songNumber == 20:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ20.mp3')
+else if songNumber == 21:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ21.mp3')
+else if songNumber == 22:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ22.mp3')
+else if songNumber == 23:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/RAZZ23.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT11.mp3')
+else if songNumber == 12:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT12.mp3')
+else if songNumber == 13:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT13.mp3')
+else if songNumber == 14:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT14.mp3')
+else if songNumber == 15:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT15.mp3')
+else if songNumber == 16:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT16.mp3')
+else if songNumber == 17:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT17.mp3')
+else if songNumber == 18:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT18.mp3')
+else if songNumber == 19:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT19.mp3')
+else if songNumber == 20:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/SENT20.mp3')
+    
+ if songNumber == 1:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC1.mp3')
+else if songNumber == 2:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/MISC2.mp3')
+else if songNumber == 3:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST3.mp3')
+else if songNumber == 4:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST4.mp3')
+else if songNumber == 5:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST5.mp3')
+else if songNumber == 6:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST6.mp3')
+else if songNumber == 7:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST7.mp3')
+else if songNumber == 8:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST8.mp3')
+else if songNumber == 9:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST9.mp3')
+else if songNumber == 10:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST10.mp3')
+else if songNumber == 11:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST11.mp3')
+else if songNumber == 12:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST12.mp3')
+else if songNumber == 13:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST13.mp3')
+else if songNumber == 14:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST14.mp3')
+else if songNumber == 15:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST15.mp3')
+else if songNumber == 16:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST16.mp3')
+else if songNumber == 17:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST17.mp3')
+else if songNumber == 18:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST18.mp3')
+else if songNumber == 19:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST19.mp3')
+else if songNumber == 20:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST20.mp3')
+else if songNumber == 21:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST21.mp3')
+else if songNumber == 22:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST22.mp3')
+else if songNumber == 23:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST23.mp3')
+else if songNumber == 24:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST24.mp3')
+else if songNumber == 25:	
+    pygame.mixer.music.load('/home/pi/Downloads/Jedi/WHIST25.mp3')
+
