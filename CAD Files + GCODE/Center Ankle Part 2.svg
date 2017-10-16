@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Center Ankle Part 2.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path12"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path15"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path17"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path19"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="BLOCK0">
+      <path
+         id="path25"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,1122.519685 3120.000000,1122.519685" />
+      <path
+         id="path27"
+         style="stroke:#000000;fill:none"
+         d="M 3120.000000,-893.480315 0.000000,-893.480315" />
+      <path
+         id="path29"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,-893.480315 0.000000,1122.519685" />
+      <path
+         id="path31"
+         style="stroke:#000000;fill:none"
+         d="M 3120.000000,1122.519685 3120.000000,-893.480315" />
+      <path
+         id="path33"
+         style="stroke:#000000;fill:none"
+         d="M 3120.000000,1110.519685 3120.000000,1074.519685" />
+      <path
+         id="path35"
+         style="stroke:#000000;fill:none"
+         d="M 3120.000000,-845.480315 3120.000000,-881.480315" />
+      <path
+         id="path37"
+         style="stroke:#000000;fill:none"
+         d="M 2520.000000,954.519685 3120.000000,954.519685" />
+      <path
+         id="path39"
+         style="stroke:#000000;fill:none"
+         d="M 2712.000000,1098.519685 3120.000000,1098.519685" />
+      <path
+         id="path41"
+         style="stroke:#000000;fill:none"
+         d="M 2520.000000,1122.519685 2520.000000,954.519685" />
+      <path
+         id="path43"
+         style="stroke:#000000;fill:none"
+         d="M 2712.000000,1122.519685 2712.000000,954.519685" />
+      <path
+         id="path45"
+         style="stroke:#000000;fill:none"
+         d="M 2748.480000,1098.519685 2748.480000,1062.039685" />
+      <path
+         id="path47"
+         style="stroke:#000000;fill:none"
+         d="M 2808.000000,1122.519685 2808.000000,1098.519685" />
+      <path
+         id="path49"
+         style="stroke:#000000;fill:none"
+         d="M 2856.000000,1098.519685 2856.000000,1062.039685" />
+      <path
+         id="path51"
+         style="stroke:#000000;fill:none"
+         d="M 2952.000000,1122.519685 2952.000000,1098.519685" />
+      <path
+         id="path53"
+         style="stroke:#000000;fill:none"
+         d="M 3083.520000,1098.519685 3083.520000,1062.039685" />
+      <path
+         id="path55"
+         style="stroke:#000000;fill:none"
+         d="M 2520.000000,1023.504324 2712.000000,1023.504324" />
+      <path
+         id="path57"
+         style="stroke:#000000;fill:none"
+         d="M 2520.000000,1057.698780 2712.000000,1057.698780" />
+      <path
+         id="path59"
+         style="stroke:#000000;fill:none"
+         d="M 2520.000000,1089.507567 2712.000000,1089.507567" />
+      <path
+         id="path61"
+         style="stroke:#000000;fill:none"
+         d="M 2712.000000,1062.039685 3120.000000,1062.039685" />
+      <path
+         id="path63"
+         style="stroke:#000000;fill:none"
+         d="M 2520.000000,989.309883 2712.000000,989.309883" />
+      <path
+         id="path65"
+         style="stroke:#000000;fill:none"
+         d="M 2615.648922,954.519685 2615.648922,1122.519685" />
+      <path
+         id="path67"
+         style="stroke:#000000;fill:none"
+         d="M 3120.000000,1122.519685 3120.000000,954.519685" />
+      <text
+         id="text71"
+         y="1068.272338"
+         x="2863.105682"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan69"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;DWG NO.{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text75"
+         y="1068.272338"
+         x="3091.537682"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan73"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;REV{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text79"
+         y="1068.272338"
+         x="3091.537682"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan77"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;REV{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text83"
+         y="996.174293"
+         x="2526.438438"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan81"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;CHECKED{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text87"
+         y="1008.769705"
+         x="2751.514264"
+         style="font-size: 37.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan85"
+           sodipodi:role="line">{\fTimes New Roman|b0|i0|c0|p0;\C7;M{\fTimes New Roman|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text91"
+         y="996.174293"
+         x="2526.438438"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan89"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;CHECKED{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text95"
+         y="1064.857573"
+         x="2527.178127"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan93"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;MFG{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text99"
+         y="961.019053"
+         x="2525.893793"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan97"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;DRAWN{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text103"
+         y="1083.188695"
+         x="2869.112866"
+         style="font-size: 9.4px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan101"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;Center Ankle{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text107"
+         y="1096.896286"
+         x="2527.411002"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan105"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;APPROVED{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text111"
+         y="1108.918738"
+         x="2957.358482"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan109"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;SHEET{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text115"
+         y="1068.272338"
+         x="2720.728082"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan113"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;SIZE{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text119"
+         y="961.607081"
+         x="2621.740826"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan117"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;DATE{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text123"
+         y="1108.918738"
+         x="2717.310482"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan121"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;SCALE{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text127"
+         y="1083.278560"
+         x="2722.329686"
+         style="font-size: 17.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan125"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;C{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text131"
+         y="961.607081"
+         x="2621.740826"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan129"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;DATE{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text135"
+         y="1068.272338"
+         x="2863.105682"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan133"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;DWG NO.{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text139"
+         y="1064.857573"
+         x="2527.178127"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan137"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;MFG{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text143"
+         y="1068.272338"
+         x="2755.384082"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan141"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;FSCM NO.{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text147"
+         y="972.642152"
+         x="2623.217735"
+         style="font-size: 9.4px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan145"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;6/12/2012{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text151"
+         y="1029.936765"
+         x="2526.574080"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan149"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;QA{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text155"
+         y="938.330566"
+         x="2537.786202"
+         style="font-size: 12.6px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan153"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C1;Copyright Media-Conversions - Released for non-commercial use ONLY!{\fMS Shell Dlg|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text159"
+         y="1005.391351"
+         x="2725.870755"
+         style="font-size: 103.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan157"
+           sodipodi:role="line">{\fTimes New Roman|b0|i0|c0|p0;\C7;C{\fTimes New Roman|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text163"
+         y="961.019053"
+         x="2525.893793"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan161"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;DRAWN{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text167"
+         y="1068.272338"
+         x="2755.384082"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan165"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;FSCM NO.{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text171"
+         y="1068.272338"
+         x="2720.728082"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan169"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;SIZE{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text175"
+         y="1108.918738"
+         x="2717.310482"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan173"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;SCALE{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text179"
+         y="1096.896286"
+         x="2527.411002"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan177"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;APPROVED{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text183"
+         y="1083.278560"
+         x="2722.329686"
+         style="font-size: 17.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan181"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;C{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text187"
+         y="1029.936765"
+         x="2526.574080"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan185"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;QA{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+      <text
+         id="text191"
+         y="1108.918738"
+         x="2957.358482"
+         style="font-size: 7.3px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan189"
+           sodipodi:role="line">{\fArial|b0|i0|c0|p0;\C7;SHEET{\fArial|b0|i0|c0|p0;\C7;</tspan>
+      </text>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g398"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.775143,281.84235)">
+      <g
+         id="g208"
+         inkscape:label="0">
+        <path
+           id="path196"
+           style="fill:none;stroke:#000000"
+           d="m 212.29331,-748.64726 h 24"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path198"
+           style="fill:none;stroke:#000000"
+           d="m 135.82931,-748.64726 h 460.32"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path200"
+           style="fill:none;stroke:#000000"
+           d="m 596.14931,-748.64726 v 502.39694"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path202"
+           style="fill:none;stroke:#000000"
+           d="M 596.14931,-246.25032 410.65817,-4.603083"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path204"
+           style="fill:none;stroke:#000000"
+           d="M 321.32045,-4.603086 135.82931,-246.25032"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path206"
+           style="fill:none;stroke:#000000"
+           d="M 135.82931,-246.25032 V -748.64726"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g260"
+         inkscape:label="VISIBLE">
+        <path
+           id="path210"
+           style="fill:none;stroke:#000000"
+           d="m 495.68531,-748.64726 h 24"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path212"
+           style="fill:none;stroke:#000000"
+           d="m 236.29331,-613.29206 v 56.6448"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path214"
+           style="fill:none;stroke:#000000"
+           d="m 212.29331,-613.29206 a 19.488,19.488 0 0 0 24,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path216"
+           style="fill:none;stroke:#000000"
+           d="m 135.82931,-748.64726 v 502.39694"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path218"
+           style="fill:none;stroke:#000000"
+           d="M 410.65817,-4.603083 596.14931,-246.25032"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path220"
+           style="fill:none;stroke:#000000"
+           d="m 321.32045,-4.603086 a 56.159996,56.159996 0 0 0 89.33771,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path222"
+           style="fill:none;stroke:#000000"
+           d="m 519.68531,-613.29206 a 19.488,19.488 0 0 0 0,-30.7104"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path224"
+           style="fill:none;stroke:#000000"
+           d="M 596.14931,-246.25032 V -748.64726"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path226"
+           style="fill:none;stroke:#000000"
+           d="m 236.29331,-556.64726 h -24"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path228"
+           style="fill:none;stroke:#000000"
+           d="m 596.14931,-748.64726 h -76.464"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path230"
+           style="fill:none;stroke:#000000"
+           d="m 212.29331,-556.64726 v -56.6448"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path232"
+           style="fill:none;stroke:#000000"
+           d="m 495.68531,-613.29206 a 19.488,19.488 0 0 0 24,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path234"
+           style="fill:none;stroke:#000000"
+           d="m 519.68531,-613.29206 v 56.6448"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path236"
+           style="fill:none;stroke:#000000"
+           d="m 212.29331,-748.64726 h 24"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path238"
+           style="fill:none;stroke:#000000"
+           d="m 495.68531,-748.64726 h -259.392"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path240"
+           style="fill:none;stroke:#000000"
+           d="m 212.29331,-748.64726 h -76.464"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path242"
+           style="fill:none;stroke:#000000"
+           d="M 135.82931,-246.25032 321.32045,-4.603086"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path244"
+           style="fill:none;stroke:#000000"
+           d="m 495.68531,-556.64726 v -56.6448"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path246"
+           style="fill:none;stroke:#000000"
+           d="m 519.68531,-644.00246 a 19.488,19.488 0 0 0 -24,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path248"
+           style="fill:none;stroke:#000000"
+           d="m 495.68531,-644.00246 a 19.488,19.488 0 0 0 0,30.7104"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path250"
+           style="fill:none;stroke:#000000"
+           d="m 236.29331,-613.29206 a 19.488,19.488 0 0 0 0,-30.7104"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path252"
+           style="fill:none;stroke:#000000"
+           d="m 212.29331,-644.00246 a 19.488,19.488 0 0 0 0,30.7104"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path254"
+           style="fill:none;stroke:#000000"
+           d="m 519.68531,-556.64726 h -24"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path256"
+           style="fill:none;stroke:#000000"
+           d="m 383.98931,-38.631259 a 18,18 0 1 0 -36,0 18,18 0 1 0 36,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path258"
+           style="fill:none;stroke:#000000"
+           d="m 236.29331,-644.00246 a 19.488,19.488 0 0 0 -24,0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g262"
+         inkscape:label="CONTINUOUS" />
+    </g>
+  </g>
+</svg>
