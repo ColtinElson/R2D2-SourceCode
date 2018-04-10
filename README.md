@@ -9,4 +9,4 @@ The source for the 3D printed dome came from https://www.thingiverse.com/thing:1
 
 All other 3D printed files come from http://astromech.net/droidwiki/Category:3D_Files (Astromech forum account needed to access)
 
-If you have any questions, email me at w0258190@nscc.ca
+If you have any questions, email me at coltinelson@gmail.com
